@@ -1,2 +1,2 @@
-# 100-Python-
+# 100-Python
 Python Practise
